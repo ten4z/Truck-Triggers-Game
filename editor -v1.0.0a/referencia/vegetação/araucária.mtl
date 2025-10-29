@@ -1,0 +1,93 @@
+# Blender MTL File: 'araucária.blend'
+# Material Count: 8
+
+newmtl Ground
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Design\___)----=projetos___\projeto-3d\referencia\vegetação\caule-1a.jpg
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Design\___)----=projetos___\projeto-3d\referencia\vegetação\caule-1b.jpg
+
+newmtl araucaria_folhas_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Design\___)----=projetos___\projeto-3d\referencia\vegetação\folhas2.png
+map_d C:\\Design\\___)----=projetos___\\projeto-3d\\referencia\\vegetação\\folhas1a.png
+
+newmtl araucaria_folhas_1_folhas1a.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Design\___)----=projetos___\projeto-3d\referencia\vegetação\folhas1a.png
+map_d C:\\Design\\___)----=projetos___\\projeto-3d\\referencia\\vegetação\\folhas1a.png
+
+newmtl araucaria_folhas_1_fruto1.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Design\___)----=projetos___\projeto-3d\referencia\vegetação\fruto1.jpg
+map_d C:\\Design\\___)----=projetos___\\projeto-3d\\referencia\\vegetação\\folhas1a.png
+
+newmtl araucaria_folhas_2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.023289 0.050977 0.013296
+Ks 0.038745 0.038745 0.038745
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Design\___)----=projetos___\projeto-3d\referencia\vegetação\folhas2.png
+map_d C:\\Design\\___)----=projetos___\\projeto-3d\\referencia\\vegetação\\folhas2.png
+
+newmtl araucaria_fruto
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Design\___)----=projetos___\projeto-3d\referencia\vegetação\fruto1.jpg
